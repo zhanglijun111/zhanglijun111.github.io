@@ -1,6 +1,6 @@
 # Site settings
 title: 大黄狗的博客
-SEOTitle: 没有被动摇吧11
+SEOTitle: 没有被动摇吧
 header-img: img/post-bg-desk.jpg
 email: 824280763@qq.com
 description: "自娱自乐."
@@ -11,8 +11,8 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "感谢永远有歌 把心境道破"
+sidebar-avatar: /img/BYD.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: flase    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
